@@ -1,3 +1,6 @@
 Learn git
 Use git
 Be awesome
+Do science
+Get data
+Publish papers
